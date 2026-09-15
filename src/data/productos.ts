@@ -4,7 +4,7 @@ export const productos = [
     nombre: "Cúrcuma en Raíz",
     descripcionBreve: "Raíz fresca de cúrcuma con alto contenido de curcumina.",
     precio: 2500,
-    imagen: "https://images.unsplash.com/photo-1615486171438-7072979261fc?q=80&w=1000&auto=format&fit=crop", // Foto grande y HD
+    imagen: "Curcuma-e1551037656724.jpg", // Foto grande y HD
     salud: [
       "Potente antiinflamatorio natural.",
       "Mejora la función cerebral y reduce el riesgo de enfermedades mentales.",

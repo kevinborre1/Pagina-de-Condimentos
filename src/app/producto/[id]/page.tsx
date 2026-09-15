@@ -31,7 +31,7 @@ export default function ProductoDetalle({ params }: { params: Promise<{ id: stri
       });
 
       // 2. Armar mensaje y redirigir a WhatsApp
-      const numeroVendedor = "5491100000000"; // Reemplazar con tu número
+      const numeroVendedor = "5491168922030"; // Reemplazar con tu número
       const mensaje = `¡Hola! Me gustaría encargar: *${producto.nombre}*.\nPrecio marcado: $${producto.precio}.`;
       const url = `https://wa.me/${numeroVendedor}?text=${encodeURIComponent(mensaje)}`;
       
